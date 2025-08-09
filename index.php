@@ -117,8 +117,8 @@
             </div>
             <div class="max-w-[1000px] mx-auto relative">
               <div class="p-3 sm:p-[18px] relative z-30 rounded-[32px] border border-white/30 dark:border-white/10 bg-white/20">
-                <img src="assets/images/hero/Gemini_Generated_Image_xaf884xaf884xaf8.png" alt="best staffing agency in USA" class="w-full rounded-2xl block dark:hidden">
-                <img src="assets/images/hero/Gemini_Generated_Image_xaf884xaf884xaf8.png" alt="best IT staffing agency in canada" class="w-full rounded-2xl hidden dark:block">
+                <img src="assets/images/hero/Gemini_Generated_Image_xaf884xaf884xaf8.webp" alt="best staffing agency in USA" class="w-full rounded-2xl block dark:hidden">
+                <img src="assets/images/hero/Gemini_Generated_Image_xaf884xaf884xaf8.webp" alt="best IT staffing agency in canada" class="w-full rounded-2xl hidden dark:block">
               </div>
               <div class="absolute hidden lg:block z-10 -top-20 -translate-y-20 left-1/2 -translate-x-1/2">
                 <svg width="1300" height="1001" viewBox="0 0 1300 1001" fill="none" xmlns="http://www.w3.org/2000/svg">
