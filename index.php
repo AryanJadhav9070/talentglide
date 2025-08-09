@@ -1,11 +1,17 @@
 <!DOCTYPE html><html><head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Talent Glide is the best staffing agency in USA, India, and North America. We connect top talent with leading companies for unmatched hiring solutions.">
+    
     <link rel="icon" href="assets/images/favicon.png">
     <link href="assets/css/glightbox.css" rel="stylesheet">
     <link href="assets/css/output.css" rel="stylesheet">
-    <title>Talent Glide | Best staffing agency in North America</title>
+
+    
+    <title>Talent glide | Best staffing agency in North America</title>
+    
   </head>
+  
   <body x-data="{      
        mobileMenuOpen: false,
         activeDropdown: null,
@@ -111,8 +117,8 @@
             </div>
             <div class="max-w-[1000px] mx-auto relative">
               <div class="p-3 sm:p-[18px] relative z-30 rounded-[32px] border border-white/30 dark:border-white/10 bg-white/20">
-                <img src="assets/images/hero/Gemini_Generated_Image_xaf884xaf884xaf8.png" alt="" class="w-full rounded-2xl block dark:hidden">
-                <img src="assets/images/hero/Gemini_Generated_Image_xaf884xaf884xaf8.png" alt="" class="w-full rounded-2xl hidden dark:block">
+                <img src="assets/images/hero/Gemini_Generated_Image_xaf884xaf884xaf8.png" alt="best staffing agency in USA" class="w-full rounded-2xl block dark:hidden">
+                <img src="assets/images/hero/Gemini_Generated_Image_xaf884xaf884xaf8.png" alt="best IT staffing agency in canada" class="w-full rounded-2xl hidden dark:block">
               </div>
               <div class="absolute hidden lg:block z-10 -top-20 -translate-y-20 left-1/2 -translate-x-1/2">
                 <svg width="1300" height="1001" viewBox="0 0 1300 1001" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -145,20 +151,20 @@
                 Trusted by worlds largest companies including...
               </p>
               <div class="flex flex-wrap justify-center items-center gap-7 md:gap-14 mt-10">
-                <img src="assets/images/brands/ConexisLogo Square Green-Black-V2.webp" class="opacity-70 transition hover:opacity-100" alt="" style="height:94px;">
-                <img src="assets/images/brands/cropped-Stepuphr_logo_2021.webp" class="opacity-70 transition hover:opacity-100" alt="" style="height:64px;">
-                <img src="assets/images/brands/PEAK_logo.webp" class="opacity-70 transition hover:opacity-100" alt="" style="height:94px;">
-                <img src="assets/images/brands/totam_logo.webp" class="opacity-70 transition hover:opacity-100" alt="" style="height:64px;">
-                <img src="assets/images/brands/vectornew1.webp" class="opacity-70 transition hover:opacity-100" alt="" style="height:54px;">
+                <img src="assets/images/brands/ConexisLogo Square Green-Black-V2.webp" class="opacity-70 transition hover:opacity-100" alt="Talentglide infotech" style="height:94px;">
+                <img src="assets/images/brands/cropped-Stepuphr_logo_2021.webp" class="opacity-70 transition hover:opacity-100" alt="top staffing agency in north america" style="height:64px;">
+                <img src="assets/images/brands/PEAK_logo.webp" class="opacity-70 transition hover:opacity-100" alt="top staffing agency in india" style="height:94px;">
+                <img src="assets/images/brands/totam_logo.webp" class="opacity-70 transition hover:opacity-100" alt="hire staff in usa for IT" style="height:64px;">
+                <img src="assets/images/brands/vectornew1.webp" class="opacity-70 transition hover:opacity-100" alt="top staffing agency in north america" style="height:54px;">
                
               </div>
             </div>
           </div>
           <!-- <div class="hidden lg:block">
-            <img src="assets/images/hero/shape-left-1.svg" class="absolute top-14 left-16 floating-1" alt="">
-            <img src="assets/images/hero/shape-left-2.svg" class="absolute left-[145px] top-[298px] floating-2" alt="">
-            <img src="assets/images/hero/shape-right-1.svg" class="absolute right-16 top-[108px] floating-3" alt="">
-            <img src="assets/images/hero/shape-right-2.svg" class="absolute top-[316px] right-[298px] floating-4" alt="">
+            <img src="assets/images/hero/shape-left-1.svg" class="absolute top-14 left-16 floating-1" alt="top staffing agency in us">
+            <img src="assets/images/hero/shape-left-2.svg" class="absolute left-[145px] top-[298px] floating-2" alt="top staffing agency in canada">
+            <img src="assets/images/hero/shape-right-1.svg" class="absolute right-16 top-[108px] floating-3" alt="top staffing agency in north america">
+            <img src="assets/images/hero/shape-right-2.svg" class="absolute top-[316px] right-[298px] floating-4" alt="best staffing agency in india">
           </div> -->
         </section>
         <!-- Hero End -->
@@ -171,7 +177,7 @@
                 Industries we serve
               </h2>
               <p class="max-w-xl mx-auto leading-6 text-gray-500 dark:text-gray-400">
-Whether you’re a startup building your first team or an enterprise expanding into new regions—we’ve got you covered.              </p>
+Talent Glide is recognized as the best staffing agency in the USA, India, and North America. We specialize in connecting businesses with top-tier professionals across industries including IT, healthcare, and finance. Whether you're a startup in India or a Fortune 500 in the USA, Talent Glide delivers tailored hiring solutions that drive growth.           </p>
             </div>
             <div class="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6 sm:gap-8">
               <div class="core-feature-wrapper bg-white p-9 border border-gray-200 dark:border-white/[0.03] dark:bg-white/[0.05]">
@@ -321,24 +327,24 @@ Whether you’re a startup building your first team or an enterprise expanding i
                  
                   <div x-show="activeTab === 'text'" class="p-6">
                     <div class="p-3 tab-img-overlay">
-                      <img src="assets/images/tab-image/2149241221.webp" alt="" class="w-full rounded-2xl block dark:hidden">
-                      <img src="assets/images/tab-image/2149241221.webp" alt="" class="w-full rounded-2xl hidden dark:block">
+                      <img src="assets/images/tab-image/2149241221.webp" alt="talentglide" class="w-full rounded-2xl block dark:hidden">
+                      <img src="assets/images/tab-image/2149241221.webp" alt="talentglide infotech" class="w-full rounded-2xl hidden dark:block">
                     </div>
                   </div>
 
                   
                   <div x-show="activeTab === 'image'" class="p-6" style="display: none">
                     <div class="p-3 tab-img-overlay">
-                      <img src="assets/images/tab-image/4148.webp" alt="" class="w-full rounded-2xl block dark:hidden">
-                      <img src="assets/images/tab-image/4148.webp" alt="" class="w-full rounded-2xl hidden dark:block">
+                      <img src="assets/images/tab-image/4148.webp" alt="top 10 staffing agency in usa" class="w-full rounded-2xl block dark:hidden">
+                      <img src="assets/images/tab-image/4148.webp" alt="top 10 staffing agency in canada" class="w-full rounded-2xl hidden dark:block">
                     </div>
                   </div>
 
                  
                   <div x-show="activeTab === 'code'" class="p-6" style="display: none">
                     <div class="p-3 tab-img-overlay">
-                      <img src="assets/images/tab-image/successful-medical-team.webp" alt="" class="w-full rounded-2xl block dark:hidden">
-                      <img src="assets/images/tab-image/successful-medical-team.webp" alt="" class="w-full rounded-2xl hidden dark:block">
+                      <img src="assets/images/tab-image/successful-medical-team.webp" alt="hire IT staff in india" class="w-full rounded-2xl block dark:hidden">
+                      <img src="assets/images/tab-image/successful-medical-team.webp" alt="hire IT staff in canada" class="w-full rounded-2xl hidden dark:block">
                     </div>
                   </div>
 
@@ -390,14 +396,14 @@ Whether you’re a startup building your first team or an enterprise expanding i
                     </div>
                     <div>
                      
-                      <img src="assets/images/benefits/bn-1.svg" class="-mb-8 md:-mb-11" alt="">
+                      <img src="assets/images/benefits/bn-1.svg" class="-mb-8 md:-mb-11" alt="talentglide infotech services">
                     </div>
                   </div>
                 </div>
                 <div class="lg:col-span-6">
                   <div class="benefits-bg rounded-[20px] p-12 overflow-hidden">
                     <div>
-                      <img src="assets/images/benefits/bn-2.svg" alt="">
+                      <img src="assets/images/benefits/bn-2.svg" alt="hire people in usa">
                     </div>
                     <div>
                       <h3 class="font-bold max-w-xs text-white text-2xl md:text-3xl mb-4">
@@ -424,9 +430,9 @@ Whether you’re a startup building your first team or an enterprise expanding i
                       </a>
                     </div>
                     <div>
-                      <img src="assets/images/benefits/29013792_7450160-removebg-preview.png" class="hidden lg:block relative z-10" alt="">
+                      <img src="assets/images/benefits/29013792_7450160-removebg-preview.png" class="hidden lg:block relative z-10" alt="best staffing and hiring agency in usa">
                     </div>
-                    <img src="assets/images/benefits/blur-shape.png" alt="" class="h-full w-full -z-0 absolute top-0 right-0">
+                    <img src="assets/images/benefits/blur-shape.png" alt="staffing agency in india" class="h-full w-full -z-0 absolute top-0 right-0">
                   </div>
                 </div>
               </div>
@@ -455,7 +461,7 @@ Whether you’re a startup building your first team or an enterprise expanding i
                 <div class="p-2 bg-gray-50 dark:bg-white/5 dark:border-gray-800 dark:hover:border-white/10 border rounded-[20px] border-gray-100 hover:border-primary-200 transition">
                   <div class="flex items-center p-3 mb-3 bg-white/90 dark:bg-white/[0.03] rounded-2xl">
                     <div>
-                      <img src="assets/images/users/145856969_0684456b-aa2b-4631-86f7-93ceaf33303c.svg" alt="Amit Sharma" class="w-[52px] h-[52px] ring-2 ring-white dark:ring-gray-700 mr-4 rounded-full drop-shadow-[0_8px_20px_rgba(0,0,0,0.08)]">
+                      <img src="assets/images/users/145856969_0684456b-aa2b-4631-86f7-93ceaf33303c.svg" alt="talentglide reviews" class="w-[52px] h-[52px] ring-2 ring-white dark:ring-gray-700 mr-4 rounded-full drop-shadow-[0_8px_20px_rgba(0,0,0,0.08)]">
                     </div>
                     <div>
                       <h3 class="text-gray-800 font-base dark:text-white/90">Amit Sharma</h3>
@@ -473,7 +479,7 @@ Whether you’re a startup building your first team or an enterprise expanding i
                 <div class="p-2 bg-gray-50 dark:bg-white/5 dark:border-gray-800 dark:hover:border-white/10 border rounded-[20px] border-gray-100 hover:border-primary-200 transition">
                   <div class="flex items-center p-3 mb-3 dark:bg-white/[0.03] bg-white/90 rounded-2xl">
                     <div>
-                      <img src="assets/images/users/145856969_0684456b-aa2b-4631-86f7-93ceaf33303c.svg" alt="Jessica Lee" class="w-[52px] h-[52px] ring-2 ring-white dark:ring-gray-700 mr-4 rounded-full drop-shadow-[0_8px_20px_rgba(0,0,0,0.08)]">
+                      <img src="assets/images/users/145856969_0684456b-aa2b-4631-86f7-93ceaf33303c.svg" alt="vector vms" class="w-[52px] h-[52px] ring-2 ring-white dark:ring-gray-700 mr-4 rounded-full drop-shadow-[0_8px_20px_rgba(0,0,0,0.08)]">
                     </div>
                     <div>
                       <h3 class="text-gray-800 font-base dark:text-white/90">Jessica Lee</h3>
@@ -491,7 +497,7 @@ Whether you’re a startup building your first team or an enterprise expanding i
                 <div class="p-2 bg-gray-50 dark:bg-white/5 dark:border-gray-800 dark:hover:border-white/10 border rounded-[20px] border-gray-100 hover:border-primary-200 transition">
                   <div class="flex items-center p-3 mb-3 bg-white/90 rounded-2xl dark:bg-white/[0.03]">
                     <div>
-                      <img src="assets/images/users/145856969_0684456b-aa2b-4631-86f7-93ceaf33303c.svg" alt="Sophie Martin" class="w-[52px] h-[52px] ring-2 ring-white dark:ring-gray-700 mr-4 rounded-full drop-shadow-[0_8px_20px_rgba(0,0,0,0.08)]">
+                      <img src="assets/images/users/145856969_0684456b-aa2b-4631-86f7-93ceaf33303c.svg" alt="conexis vms" class="w-[52px] h-[52px] ring-2 ring-white dark:ring-gray-700 mr-4 rounded-full drop-shadow-[0_8px_20px_rgba(0,0,0,0.08)]">
                     </div>
                     <div>
                       <h3 class="text-gray-800 font-base dark:text-white/90">Sophie Martin</h3>
@@ -509,7 +515,7 @@ Whether you’re a startup building your first team or an enterprise expanding i
                 <div class="p-2 bg-gray-50 dark:bg-white/5 dark:border-gray-800 dark:hover:border-white/10 border rounded-[20px] border-gray-100 hover:border-primary-200 transition">
                   <div class="flex items-center p-3 mb-3 bg-white/90 rounded-2xl dark:bg-white/[0.03]">
                     <div>
-                      <img src="assets/images/users/145856969_0684456b-aa2b-4631-86f7-93ceaf33303c.svg" alt="Priya Desai" class="w-[52px] h-[52px] ring-2 ring-white dark:ring-gray-700 mr-4 rounded-full drop-shadow-[0_8px_20px_rgba(0,0,0,0.08)]">
+                      <img src="assets/images/users/145856969_0684456b-aa2b-4631-86f7-93ceaf33303c.svg" alt="top staffing agency in usa " class="w-[52px] h-[52px] ring-2 ring-white dark:ring-gray-700 mr-4 rounded-full drop-shadow-[0_8px_20px_rgba(0,0,0,0.08)]">
                     </div>
                     <div>
                       <h3 class="text-gray-800 font-base dark:text-white/90">Priya Desai</h3>
@@ -527,7 +533,7 @@ Whether you’re a startup building your first team or an enterprise expanding i
                 <div class="p-2 bg-gray-50 dark:bg-white/5 dark:border-gray-800 dark:hover:border-white/10 border rounded-[20px] border-gray-100 hover:border-primary-200 transition">
                   <div class="flex items-center p-3 mb-3 dark:bg-white/[0.03] bg-white/90 rounded-2xl">
                     <div>
-                      <img src="assets/images/users/145856969_0684456b-aa2b-4631-86f7-93ceaf33303c.svg" alt="Michael Carter" class="w-[52px] h-[52px] ring-2 ring-white dark:ring-gray-700 mr-4 rounded-full drop-shadow-[0_8px_20px_rgba(0,0,0,0.08)]">
+                      <img src="assets/images/users/145856969_0684456b-aa2b-4631-86f7-93ceaf33303c.svg" alt="top staffing agency in india" class="w-[52px] h-[52px] ring-2 ring-white dark:ring-gray-700 mr-4 rounded-full drop-shadow-[0_8px_20px_rgba(0,0,0,0.08)]">
                     </div>
                     <div>
                       <h3 class="text-gray-800 font-base dark:text-white/90">Michael Carter</h3>
@@ -545,7 +551,7 @@ Whether you’re a startup building your first team or an enterprise expanding i
                 <div class="p-2 bg-gray-50 dark:bg-white/5 dark:border-gray-800 dark:hover:border-white/10 border rounded-[20px] border-gray-100 hover:border-primary-200 transition">
                   <div class="flex items-center p-3 mb-3 dark:bg-white/[0.03] bg-white/90 rounded-2xl">
                     <div>
-                      <img src="assets/images/users/145856969_0684456b-aa2b-4631-86f7-93ceaf33303c.svg" alt="Rajiv Singh" class="w-[52px] h-[52px] ring-2 ring-white dark:ring-gray-700 mr-4 rounded-full drop-shadow-[0_8px_20px_rgba(0,0,0,0.08)]">
+                      <img src="assets/images/users/145856969_0684456b-aa2b-4631-86f7-93ceaf33303c.svg" alt="staffing agencies in india" class="w-[52px] h-[52px] ring-2 ring-white dark:ring-gray-700 mr-4 rounded-full drop-shadow-[0_8px_20px_rgba(0,0,0,0.08)]">
                     </div>
                     <div>
                       <h3 class="text-gray-800 font-base dark:text-white/90">Rajiv Singh</h3>
@@ -565,7 +571,7 @@ Whether you’re a startup building your first team or an enterprise expanding i
                   <div class="p-2 bg-gray-50 dark:bg-white/5 dark:border-gray-800 dark:hover:border-white/10 border rounded-[20px] border-gray-100 hover:border-primary-200 transition">
                     <div class="flex items-center p-3 mb-3 bg-white/90 dark:bg-white/[0.03] rounded-2xl">
                       <div>
-                        <img src="assets/images/users/145856969_0684456b-aa2b-4631-86f7-93ceaf33303c.svg" alt="Ralph Edwards" class="w-[52px] h-[52px] ring-2 ring-white dark:ring-gray-700 mr-4 rounded-full drop-shadow-[0_8px_20px_rgba(0,0,0,0.08)]">
+                        <img src="assets/images/users/145856969_0684456b-aa2b-4631-86f7-93ceaf33303c.svg" alt="best staff providers in usa" class="w-[52px] h-[52px] ring-2 ring-white dark:ring-gray-700 mr-4 rounded-full drop-shadow-[0_8px_20px_rgba(0,0,0,0.08)]">
                       </div>
                       <div>
                         <h3 class="text-gray-800 font-base dark:text-white/90">
@@ -591,7 +597,7 @@ Whether you’re a startup building your first team or an enterprise expanding i
                   <div class="p-2 bg-gray-50 dark:bg-white/5 dark:border-gray-800 dark:hover:border-white/10 border rounded-[20px] border-gray-100 hover:border-primary-200 transition">
                     <div class="flex items-center p-3 mb-3 bg-white/90 dark:bg-white/[0.03] rounded-2xl">
                       <div>
-                        <img src="assets/images/users/145856969_0684456b-aa2b-4631-86f7-93ceaf33303c.svg" alt="Ralph Edwards" class="w-[52px] h-[52px] ring-2 ring-white dark:ring-gray-700 mr-4 rounded-full drop-shadow-[0_8px_20px_rgba(0,0,0,0.08)]">
+                        <img src="assets/images/users/145856969_0684456b-aa2b-4631-86f7-93ceaf33303c.svg" alt="staffing agency in usa" class="w-[52px] h-[52px] ring-2 ring-white dark:ring-gray-700 mr-4 rounded-full drop-shadow-[0_8px_20px_rgba(0,0,0,0.08)]">
                       </div>
                       <div>
                         <h3 class="text-gray-800 font-base dark:text-white/90">
@@ -617,7 +623,7 @@ Whether you’re a startup building your first team or an enterprise expanding i
                   <div class="p-2 bg-gray-50 dark:bg-white/5 dark:border-gray-800 dark:hover:border-white/10 border rounded-[20px] border-gray-100 hover:border-primary-200 transition">
                     <div class="flex items-center p-3 mb-3 bg-white/90 dark:bg-white/[0.03] rounded-2xl">
                       <div>
-                        <img src="assets/images/users/145856969_0684456b-aa2b-4631-86f7-93ceaf33303c.svg" alt="Ralph Edwards" class="w-[52px] h-[52px] ring-2 ring-white dark:ring-gray-700 mr-4 rounded-full drop-shadow-[0_8px_20px_rgba(0,0,0,0.08)]">
+                        <img src="assets/images/users/145856969_0684456b-aa2b-4631-86f7-93ceaf33303c.svg" alt="talentglide" class="w-[52px] h-[52px] ring-2 ring-white dark:ring-gray-700 mr-4 rounded-full drop-shadow-[0_8px_20px_rgba(0,0,0,0.08)]">
                       </div>
                       <div>
                         <h3 class="text-gray-800 font-base dark:text-white/90">
