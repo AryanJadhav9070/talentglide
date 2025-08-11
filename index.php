@@ -9,7 +9,12 @@
 
     
     <title>Talent glide | Best staffing agency in North America</title>
-    
+    <style>
+      .pads {
+        padding-left: 23px;
+        padding-top: 10px;
+      }
+    </style>
   </head>
   
   <body x-data="{      
@@ -117,8 +122,8 @@
             </div>
             <div class="max-w-[1000px] mx-auto relative">
               <div class="p-3 sm:p-[18px] relative z-30 rounded-[32px] border border-white/30 dark:border-white/10 bg-white/20">
-                <img src="assets/images/hero/Gemini_Generated_Image_xaf884xaf884xaf8.webp" alt="best staffing agency in USA" class="w-full rounded-2xl block dark:hidden">
-                <img src="assets/images/hero/Gemini_Generated_Image_xaf884xaf884xaf8.webp" alt="best IT staffing agency in canada" class="w-full rounded-2xl hidden dark:block">
+                <img src="assets/images/hero/Gemini_Generated_Image_xaf884xaf884xaf8q.webp" alt="best staffing agency in USA" class="w-full rounded-2xl block dark:hidden">
+                <img src="assets/images/hero/Gemini_Generated_Image_xaf884xaf884xaf8q.webp" alt="best IT staffing agency in canada" class="w-full rounded-2xl hidden dark:block">
               </div>
               <div class="absolute hidden lg:block z-10 -top-20 -translate-y-20 left-1/2 -translate-x-1/2">
                 <svg width="1300" height="1001" viewBox="0 0 1300 1001" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -155,7 +160,7 @@
                 <img src="assets/images/brands/cropped-Stepuphr_logo_2021.webp" class="opacity-70 transition hover:opacity-100" alt="top staffing agency in north america" style="height:64px;">
                 <img src="assets/images/brands/PEAK_logo.webp" class="opacity-70 transition hover:opacity-100" alt="top staffing agency in india" style="height:94px;">
                 <img src="assets/images/brands/totam_logo.webp" class="opacity-70 transition hover:opacity-100" alt="hire staff in usa for IT" style="height:64px;">
-                <img src="assets/images/brands/vectornew1.webp" class="opacity-70 transition hover:opacity-100" alt="top staffing agency in north america" style="height:54px;">
+                <img src="assets/images/brands/vectornew12.webp" class="opacity-70 transition hover:opacity-100" alt="top staffing agency in north america" style="height:54px;">
                
               </div>
             </div>
@@ -170,124 +175,121 @@
         <!-- Hero End -->
 
         <!-- Core Feature Start -->
-        <section class="py-28 bg-gray-50 dark:bg-white/[0.01]">
-          <div class="wrapper">
-            <div class="max-w-2xl mx-auto mb-12 text-center">
-              <h2 class="mb-3 font-bold text-center text-gray-800 text-3xl dark:text-white/90 md:text-title-lg">
-                Industries we serve
-              </h2>
-              <p class="max-w-xl mx-auto leading-6 text-gray-500 dark:text-gray-400">
-Talent Glide is recognized as the best staffing agency in the USA, India, and North America. We specialize in connecting businesses with top-tier professionals across industries including IT, healthcare, and finance. Whether you're a startup in India or a Fortune 500 in the USA, Talent Glide delivers tailored hiring solutions that drive growth.           </p>
-            </div>
-            <div class="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6 sm:gap-8">
-              <div class="core-feature-wrapper bg-white p-9 border border-gray-200 dark:border-white/[0.03] dark:bg-white/[0.05]">
-                <div class="core-feature-icon mb-9">
-                  <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" fill="white" viewBox="0 0 24 24" stroke="currentColor">
-  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 10l9-7 9 7M4 10h16v10H4V10zM8 21V10M16 21V10" />
-</svg>
+  <section class="py-28 bg-gray-50 dark:bg-white/[0.01]">
+  <div class="wrapper">
+    <div class="max-w-2xl mx-auto mb-12 text-center">
+      <h2 class="mb-3 font-bold text-center text-gray-800 text-3xl dark:text-white/90 md:text-title-lg">
+        Industries We Serve
+      </h2>
+      <p class="max-w-xl mx-auto leading-6 text-gray-500 dark:text-gray-400">
+        Talent Glide is recognized as the best staffing agency in the USA, India, and North America. We specialize in connecting businesses with top-tier professionals across industries including IT, BFSI, Telecommunication, Manufacturing, Pharma, and Energy & Utility. Whether you're a startup in India or a Fortune 500 in the USA, Talent Glide delivers tailored hiring solutions that drive growth.
+      </p>
+    </div>
 
-                </div>
-                <h3 class="mb-4 text-gray-800 dark:text-white/90 font-bold text-xl md:text-2xl max-w-[312px]">
-                  BFSI
-                </h3>
-                <p class="text-gray-500 max-w-[312px] dark:text-gray-400">
-                  We deliver finance experts driving innovation, digital transformation, compliance, and customer success across BFSI firms.
-                </p>
-              </div>
-              <div class="core-feature-wrapper bg-white p-9 border border-gray-200 dark:border-white/[0.03] dark:bg-white/[0.05]">
-                <div class="core-feature-icon mb-9">
-                 <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 24" fill="white" stroke="currentColor" stroke-width="2"
-  stroke-linecap="round" stroke-linejoin="round">
-  <path d="M4 2v6a6 6 0 0 0 12 0V2" />
-  <path d="M12 12v2a4 4 0 0 1-8 0v-2" />
-  <circle cx="20" cy="10" r="2" />
-  <path d="M20 12v2a4 4 0 0 1-4 4h-1" />
-</svg>
+    <div class="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6 sm:gap-8">
 
-                </div>
-                <h3 class="mb-4 text-gray-800 dark:text-white/90 font-bold text-xl md:text-2xl max-w-[312px]">
-                  Healthcare
-                </h3>
-                <p class="text-gray-500 max-w-[312px] dark:text-gray-400">
-                 Providing healthcare professionals and tech talent supporting patient care, compliance, systems, and operational excellence.
-                </p>
-              </div>
-              <div class="core-feature-wrapper bg-white p-9 border border-gray-200 dark:border-white/[0.03] dark:bg-white/[0.05]">
-                <div class="core-feature-icon mb-9">
-                 <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 24" fill="white" stroke="currentColor"
-  stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-  <circle cx="9" cy="21" r="1" />
-  <circle cx="20" cy="21" r="1" />
-  <path d="M1 1h4l2.68 13.39a2 2 0 0 0 2 1.61h9.72a2 2 0 0 0 2-1.61L23 6H6" />
-</svg>
+      <!-- Feature Card Template -->
+      <div class="core-feature-wrapper bg-white p-9 border border-gray-200 dark:border-white/[0.03] dark:bg-white/[0.05] hover:shadow-lg transition duration-300 rounded-xl">
+  <div class="core-feature-icon mb-9 flex items-center justify-center w-20 h-20 rounded-full bg-white shadow-xl mx-auto">
+    <svg class="w-12 h-12 text-black pads" xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+      <rect x="2" y="3" width="20" height="14" rx="2" ry="2" />
+      <line x1="8" y1="21" x2="16" y2="21" />
+      <line x1="12" y1="17" x2="12" y2="21" />
+    </svg>
+  </div>
+  <h3 class="mb-4 text-gray-800 dark:text-white/90 font-bold text-xl md:text-2xl text-center">
+    IT Companies
+  </h3>
+  <p class="text-gray-500 dark:text-gray-400 text-center">
+    Scaling IT teams with engineers, product managers, and customer experts accelerating software growth journeys.
+  </p>
+</div>
+      <!-- BFSI -->
+      <div class="core-feature-wrapper bg-white p-9 border border-gray-200 dark:border-white/[0.03] dark:bg-white/[0.05] hover:shadow-lg transition duration-300 rounded-xl">
+        <div class="core-feature-icon mb-9 flex items-center justify-center w-20 h-20 rounded-full bg-white shadow-xl mx-auto">
+          <svg class="w-12 h-12 text-black pads" xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M3 10l9-7 9 7M4 10h16v10H4V10zM8 21V10M16 21V10" />
+          </svg>
+        </div>
+        <h3 class="mb-4 text-gray-800 dark:text-white/90 font-bold text-xl md:text-2xl text-center">
+          BFSI
+        </h3>
+        <p class="text-gray-500 dark:text-gray-400 text-center">
+          Delivering finance experts driving innovation, digital transformation, compliance, and customer success across BFSI firms.
+        </p>
+      </div>
 
-                </div>
-                <h3 class="mb-4 text-gray-800 dark:text-white/90 font-bold text-xl md:text-2xl max-w-[312px]">
-                  Retails & Ecommerce
-                </h3>
-                <p class="text-gray-500 max-w-[312px] dark:text-gray-400">
-                 Connecting brands with digital, logistics, and analytics talent to elevate retail and online commerce success.
-                </p>
-              </div>
-              <div class="core-feature-wrapper bg-white p-9 border border-gray-200 dark:border-white/[0.03] dark:bg-white/[0.05]">
-                <div class="core-feature-icon mb-9">
-                  <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 24" fill="white"
-  stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-  <path d="M20 17.58A5 5 0 0 0 18 9h-1.26A8 8 0 1 0 4 16.25" />
-  <path d="M12 12v1" />
-  <path d="M12 17v1" />
-  <path d="M14.6 13.5l-.5.87" />
-  <path d="M9.4 13.5l.5.87" />
-  <path d="M9.4 16.5l.5-.87" />
-  <path d="M14.6 16.5l-.5-.87" />
-  <circle cx="12" cy="15" r="2" />
-</svg>
+      <!-- Telecommunication -->
+      <div class="core-feature-wrapper bg-white p-9 border border-gray-200 dark:border-white/[0.03] dark:bg-white/[0.05] hover:shadow-lg transition duration-300 rounded-xl">
+        <div class="core-feature-icon mb-9 flex items-center justify-center w-20 h-20 rounded-full bg-white shadow-xl mx-auto">
+          <svg class="w-12 h-12 text-black pads" xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M12 20v-6M8 20v-2M16 20v-4M4 20v-1M20 20v-3" />
+            <path d="M2 8.82C3.88 6.28 7.03 4.5 11 4.5s7.12 1.78 9 4.32" />
+            <path d="M6 12.82c.88-1.54 2.68-2.57 5-2.57s4.12 1.03 5 2.57" />
+          </svg>
+        </div>
+        <h3 class="mb-4 text-gray-800 dark:text-white/90 font-bold text-xl md:text-2xl text-center">
+          Telecommunication
+        </h3>
+        <p class="text-gray-500 dark:text-gray-400 text-center">
+          Providing skilled telecom engineers and network specialists ensuring seamless connectivity and innovation.
+        </p>
+      </div>
 
-                </div>
-                <h3 class="mb-4 text-gray-800 dark:text-white/90 font-bold text-xl md:text-2xl max-w-[312px]">
-                  Saas Companies
-                </h3>
-                <p class="text-gray-500 max-w-[312px] dark:text-gray-400">
-                 Scaling SaaS teams with engineers, product managers, and customer experts accelerating software growth journeys.
-                </p>
-              </div>
-              <div class="core-feature-wrapper bg-white p-9 border border-gray-200 dark:border-white/[0.03] dark:bg-white/[0.05]">
-                <div class="core-feature-icon mb-9">
-                  <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 24" fill="white"
-  stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-  <path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4a2 2 0 0 0 1-1.73z" />
-  <polyline points="3.27 6.96 12 12.01 20.73 6.96" />
-  <line x1="12" y1="22.08" x2="12" y2="12" />
-</svg>
+      <!-- Manufacturing -->
+      <div class="core-feature-wrapper bg-white p-9 border border-gray-200 dark:border-white/[0.03] dark:bg-white/[0.05] hover:shadow-lg transition duration-300 rounded-xl">
+        <div class="core-feature-icon mb-9 flex items-center justify-center w-20 h-20 rounded-full bg-white shadow-xl mx-auto">
+          <svg class="w-12 h-12 text-black pads" xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M4 21V9l6 3V9l6 3V9l6 3v9H4z" />
+          </svg>
+        </div>
+        <h3 class="mb-4 text-gray-800 dark:text-white/90 font-bold text-xl md:text-2xl text-center">
+          Manufacturing
+        </h3>
+        <p class="text-gray-500 dark:text-gray-400 text-center">
+          Supplying engineers and specialists for automation, production, design, and innovation in industrial sectors.
+        </p>
+      </div>
 
-                </div>
-                <h3 class="mb-4 text-gray-800 dark:text-white/90 font-bold text-xl md:text-2xl max-w-[312px]">
-                  Product based companies
-                </h3>
-                <p class="text-gray-500 max-w-[312px] dark:text-gray-400">
-                 We source top talent for product design, development, scalability, innovation, and market-ready solutions.
-                </p>
-              </div>
-              <div class="core-feature-wrapper bg-white p-9 border border-gray-200 dark:border-white/[0.03] dark:bg-white/[0.05]">
-                <div class="core-feature-icon mb-9">
-                 <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 24" fill="white"
-  stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-  <path d="M3 21v-8l5 5V9l5 5V3l9 6v12H3z" />
-  <path d="M18 21a3 3 0 1 0 0-6 3 3 0 0 0 0 6z" />
-  <path d="M18 18v.01" />
-</svg>
+      <!-- Pharma -->
+      <div class="core-feature-wrapper bg-white p-9 border border-gray-200 dark:border-white/[0.03] dark:bg-white/[0.05] hover:shadow-lg transition duration-300 rounded-xl">
+        <div class="core-feature-icon mb-9 flex items-center justify-center w-20 h-20 rounded-full bg-white shadow-xl mx-auto">
+          <svg class="w-12 h-12 text-black pads" xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+            <rect x="3" y="3" width="7" height="7" rx="1" />
+            <rect x="14" y="3" width="7" height="7" rx="1" />
+            <rect x="14" y="14" width="7" height="7" rx="1" />
+            <rect x="3" y="14" width="7" height="7" rx="1" />
+          </svg>
+        </div>
+        <h3 class="mb-4 text-gray-800 dark:text-white/90 font-bold text-xl md:text-2xl text-center">
+          Pharma Companies
+        </h3>
+        <p class="text-gray-500 dark:text-gray-400 text-center">
+          Connecting pharma companies with exceptional talent to drive innovation, ensure quality, and deliver market-ready healthcare solutions.
+        </p>
+      </div>
 
-                </div>
-                <h3 class="mb-4 text-gray-800 dark:text-white/90 font-bold text-xl md:text-2xl max-w-[312px]">
-                 Engineering & Manufacturing
-                </h3>
-                <p class="text-gray-500 max-w-[312px] dark:text-gray-400">
-                 Supplying engineers and specialists for automation, production, design, and innovation in industrial development sectors.
-                </p>
-              </div>
-            </div>
-          </div>
-        </section>
+      <!-- Energy -->
+      <div class="core-feature-wrapper bg-white p-9 border border-gray-200 dark:border-white/[0.03] dark:bg-white/[0.05] hover:shadow-lg transition duration-300 rounded-xl">
+        <div class="core-feature-icon mb-9 flex items-center justify-center w-20 h-20 rounded-full bg-white shadow-xl mx-auto">
+          <svg class="w-12 h-12 text-black pads" xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+            <polygon points="13 2 3 14 12 14 11 22 21 10 13 10 13 2" />
+          </svg>
+        </div>
+        <h3 class="mb-4 text-gray-800 dark:text-white/90 font-bold text-xl md:text-2xl text-center">
+          Energy & Utility
+        </h3>
+        <p class="text-gray-500 dark:text-gray-400 text-center">
+          Delivering engineers, analysts, and innovators powering renewable energy, smart grids, and utility operations.
+        </p>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+
+
         <!-- Core Feature End -->
 
         <!-- Tab Start -->
@@ -316,8 +318,16 @@ Talent Glide is recognized as the best staffing agency in the USA, India, and No
                   </button>
 
                   <button @click="activeTab = 'code'" :class="{ 'bg-white dark:text-white/90 dark:bg-white/10 text-gray-800': activeTab === 'code', 'text-gray-500 dark:text-gray-400 bg-transparent': activeTab !== 'code' }" class="flex items-center h-12 gap-2 px-4 py-3 text-sm font-medium transition-colors duration-200 rounded-full">
-                    Healthcare Staffing
+                   Telecommunication
                   </button>
+                  <button @click="activeTab = 'bfsi'" :class="{ 'bg-white dark:text-white/90 dark:bg-white/10 text-gray-800': activeTab === 'bfsi', 'text-gray-500 dark:text-gray-400 bg-transparent': activeTab !== 'bfsi' }" class="flex items-center h-12 gap-2 px-4 py-3 text-sm font-medium transition-colors duration-200 rounded-full">
+                   BFSI
+                  </button>
+
+                  
+                  
+
+                  
 
                  
                 </div>
@@ -343,10 +353,18 @@ Talent Glide is recognized as the best staffing agency in the USA, India, and No
                  
                   <div x-show="activeTab === 'code'" class="p-6" style="display: none">
                     <div class="p-3 tab-img-overlay">
-                      <img src="assets/images/tab-image/successful-medical-team.webp" alt="hire IT staff in india" class="w-full rounded-2xl block dark:hidden">
-                      <img src="assets/images/tab-image/successful-medical-team.webp" alt="hire IT staff in canada" class="w-full rounded-2xl hidden dark:block">
+                      <img src="assets/images/tab-image/tele.webp" alt="hire IT staff in india" class="w-full rounded-2xl block dark:hidden">
+                      <img src="assets/images/tab-image/tele.webp" alt="hire IT staff in canada" class="w-full rounded-2xl hidden dark:block">
                     </div>
                   </div>
+
+                  <div x-show="activeTab === 'bfsi'" class="p-6" style="display: none">
+                    <div class="p-3 tab-img-overlay">
+                      <img src="assets/images/tab-image/bfsi.webp" alt="hire IT staff in india" class="w-full rounded-2xl block dark:hidden">
+                      <img src="assets/images/tab-image/bfsi.webp" alt="hire IT staff in canada" class="w-full rounded-2xl hidden dark:block">
+                    </div>
+                  </div>
+
 
                   
                 </div>
