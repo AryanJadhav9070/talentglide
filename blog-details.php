@@ -61,7 +61,6 @@
         }
       }">
     <div class="dark:bg-dark-secondary">
-
       <!-- Header Start -->
       <?php include 'header.html'; ?>
 <?php
@@ -127,7 +126,7 @@ $img2 = htmlspecialchars($row['additional-img-2']);
       <!-- Main Image -->
       <?php if (!empty($row['image-blog-grid-main'])): ?>
         <div class="max-w-[980px] mx-auto my-10">
-          <img src="uploads/<?= htmlspecialchars($row['image-blog-grid-main']) ?>" class="w-full rounded-[20px]" alt="Blog Main Image">
+          <img src="<?= htmlspecialchars($row['image-blog-grid-main']) ?>" class="w-full rounded-[20px]" alt="Blog Main Image">
         </div>
       <?php endif; ?>
 
@@ -151,10 +150,10 @@ $img2 = htmlspecialchars($row['additional-img-2']);
         <!-- Additional Images -->
         <div class="grid grid-cols-2 gap-8">
           <?php if (!empty($row['additional-img-1'])): ?>
-            <img src="uploads/<?= htmlspecialchars($row['additional-img-1']) ?>" class="w-full rounded-xl" alt="Additional Image 1">
+            <img src="<?= htmlspecialchars($row['additional-img-1']) ?>" class="w-full rounded-xl" alt="Additional Image 1">
           <?php endif; ?>
           <?php if (!empty($row['additional-img-2'])): ?>
-            <img src="uploads/<?= htmlspecialchars($row['additional-img-2']) ?>" class="w-full rounded-xl" alt="Additional Image 2">
+            <img src="<?= htmlspecialchars($row['additional-img-2']) ?>" class="w-full rounded-xl" alt="Additional Image 2">
           <?php endif; ?>
         </div>
 
@@ -192,10 +191,9 @@ $img2 = htmlspecialchars($row['additional-img-2']);
 
       <!-- Main End -->
 
-
-
-
-       <?php include 'footer.html'; ?>
+      <!-- Footer Start -->
+       <?php include 'footer.php'; ?>
+      <!-- Footer End -->
     </div>
 
     <!-- Main End -->
