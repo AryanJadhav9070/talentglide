@@ -105,9 +105,8 @@ $result = mysqli_query($conn, $sql);
                                         <?php echo htmlspecialchars($row['Title-tg']); ?>
                                     </a>
                                 </h3>
-                                <div class="text-gray-500 dark:text-gray-400">
-                                    <?php echo $row['Disc-tg']; ?>
-                    </div>
+                                
+                                
                             </div>
                         </article>
                     <?php endwhile; ?>
