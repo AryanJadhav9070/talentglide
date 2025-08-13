@@ -247,8 +247,8 @@ $conn->close();
                                         <td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500"><?php echo htmlspecialchars($blog['Author-tg']); ?></td>
                                         <td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500"><?php echo htmlspecialchars($blog['Date-tg']); ?></td>
                                         <td class="px-4 py-3 whitespace-nowrap">
-                                            <span class="px-2 py-1 text-xs font-semibold rounded-full <?php echo $blog['status'] == 0x0001 ? 'text-green-800 bg-green-100' : 'text-red-800 bg-red-100'; ?>">
-                                                <?php echo $blog['status'] == 0x0001 ? 'Enabled' : 'Disabled'; ?>
+                                            <span class="px-2 py-1 text-xs font-semibold rounded-full <?php echo $blog['status'] == 0x0000 ? 'text-green-800 bg-green-100' : 'text-red-800 bg-red-100'; ?>">
+                                                <?php echo $blog['status'] == 0x0000 ? 'Enabled' : 'Disabled'; ?>
                                             </span>
                                         </td>
                                         <td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
