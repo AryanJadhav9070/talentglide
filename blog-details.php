@@ -106,8 +106,10 @@ $img2 = htmlspecialchars($row['additional-img-2']);
           <?= htmlspecialchars($row['Tagline-tg']) ?>
         </p>
         <div class="flex justify-center items-center text-sm text-gray-500 mb-3">
+                    <span class="mx-4">
+            <svg width="6" height="6"><circle cx="3" cy="3" r="3" fill="#98A2B3"/></svg>
+          </span>
           <div class="flex gap-3 items-center">
-            <img src="assets/images/blog/user.png" class="size-10 rounded-full shrink-0" alt="Author">
             <p class="text-gray-500 text-sm dark:text-gray-400">
               <?= htmlspecialchars($row['Author-tg']) ?>
             </p>
@@ -116,26 +118,63 @@ $img2 = htmlspecialchars($row['additional-img-2']);
             <svg width="6" height="6"><circle cx="3" cy="3" r="3" fill="#98A2B3"/></svg>
           </span>
           <span class="dark:text-gray-400"><?= htmlspecialchars($row['Date-tg']) ?></span>
-          <span class="mx-4">
-            <svg width="6" height="6"><circle cx="3" cy="3" r="3" fill="#98A2B3"/></svg>
-          </span>
-          <span class="dark:text-gray-400">3 Comments</span>
+
         </div>
       </div>
 
       <!-- Main Image -->
       <?php if (!empty($row['image-blog-grid-main'])): ?>
-        <div class="max-w-[980px] mx-auto my-10">
-          <img src="<?= htmlspecialchars($row['image-blog-grid-main']) ?>" class="w-full rounded-[20px]" alt="Blog Main Image">
-        </div>
+<div class="image-wrapper">
+  <img src="backend-admin-panel/uploads/<?= htmlspecialchars($row['image-blog-grid-main']) ?>" 
+       alt="Blog Main Image">
+</div>
+
+<style>
+.image-wrapper {
+  position: relative;
+  width: 800px;   /* Fixed width */
+  height: 500px;  /* Fixed height */
+  margin: 40px auto;
+  border-radius: 20px;
+  overflow: hidden;
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.6); /* Black shadow */
+}
+
+.image-wrapper::before {
+  content: "";
+  position: absolute;
+  top: -20px;
+  left: -20px;
+  right: -20px;
+  bottom: -20px;
+  background: radial-gradient(circle at center, rgba(168, 85, 247, 0.6), transparent 70%);
+  z-index: -1;
+  border-radius: 30px;
+}
+
+.image-wrapper img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; 
+  border-radius: 20px;
+}
+
+</style>
+
+
+
+
+
+
       <?php endif; ?>
 
       <!-- Blog Description -->
       <div class="max-w-[770px] mx-auto">
         <div class="space-y-3 mb-8">
-          <p class="text-gray-700 text-base leading-7 dark:text-gray-400">
-            <?= nl2br(htmlspecialchars($row['Disc-tg'])) ?>
-          </p>
+          <div class="text-gray-700 text-base leading-7 dark:text-gray-400">
+                                                <?php echo $row['Disc-tg']; ?>
+
+      </div>
         </div>
 
         <!-- Blog Quote -->
@@ -147,15 +186,50 @@ $img2 = htmlspecialchars($row['additional-img-2']);
           </div>
         <?php endif; ?>
 
-        <!-- Additional Images -->
-        <div class="grid grid-cols-2 gap-8">
-          <?php if (!empty($row['additional-img-1'])): ?>
-            <img src="<?= htmlspecialchars($row['additional-img-1']) ?>" class="w-full rounded-xl" alt="Additional Image 1">
-          <?php endif; ?>
-          <?php if (!empty($row['additional-img-2'])): ?>
-            <img src="<?= htmlspecialchars($row['additional-img-2']) ?>" class="w-full rounded-xl" alt="Additional Image 2">
-          <?php endif; ?>
-        </div>
+<!-- Additional Images -->
+<div class="grid grid-cols-2 gap-8">
+  <?php if (!empty($row['additional-img-1'])): ?>
+    <div class="additional-image-wrapper">
+      <img src="backend-admin-panel/uploads/<?= htmlspecialchars($row['additional-img-1']) ?>" alt="Additional Image 1">
+    </div>
+  <?php endif; ?>
+  
+  <?php if (!empty($row['additional-img-2'])): ?>
+    <div class="additional-image-wrapper">
+      <img src="backend-admin-panel/uploads/<?= htmlspecialchars($row['additional-img-2']) ?>" alt="Additional Image 2">
+    </div>
+  <?php endif; ?>
+</div>
+<style>
+  .additional-image-wrapper {
+  position: relative;
+  width: 100%;
+  height: 300px; /* Fixed height */
+  border-radius: 15px;
+  overflow: hidden;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.6);
+}
+
+.additional-image-wrapper::before {
+  content: "";
+  position: absolute;
+  top: -15px;
+  left: -15px;
+  right: -15px;
+  bottom: -15px;
+  background: radial-gradient(circle at center, rgba(168, 85, 247, 0.5), transparent 70%);
+  z-index: -1;
+  border-radius: 25px;
+}
+
+.additional-image-wrapper img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 15px;
+}
+
+</style>
 
         <!-- Social Share -->
         <div class="mt-14">
@@ -192,7 +266,7 @@ $img2 = htmlspecialchars($row['additional-img-2']);
       <!-- Main End -->
 
       <!-- Footer Start -->
-       <?php include 'footer.php'; ?>
+       <?php include 'footer.html'; ?>
       <!-- Footer End -->
     </div>
 
