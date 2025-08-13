@@ -78,7 +78,7 @@ $status_checked = $blog['status'] == "\0\1" ? 'checked' : '';
 </style>
 </head>
 
-<div class="bg-white rounded-xl w-full max-w-4xl p-8 shadow-lg" style="margin-left:20%; margin-right:20%; margin-top:2%; margin-bottom:2%;">
+<div class="bg-white rounded-xl w-full max-w-4xl p-8 shadow-lg" style="margin: 2%;">
     <!-- Header with back button and title -->
     <div class="flex items-center mb-8">
         <a href="manage_blogs.php" class="mr-4 p-2 rounded-full bg-gray-100 hover:bg-gray-200 transition">
