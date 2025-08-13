@@ -443,7 +443,7 @@
                       <p class="text-base text-white/70 mb-8">
                        From entry-level to executive roles, TalentGlide helps you find the right people — fast. No noise, just results.
                       </p>
-                      <a href="contact.html" class="font-medium inline-block text-sm text-white rounded-full bg-primary-500 hover:bg-primary-600 transition py-3 px-6">
+                      <a href="contact.php" class="font-medium inline-block text-sm text-white rounded-full bg-primary-500 hover:bg-primary-600 transition py-3 px-6">
                         Schedule a free hiring consultation
                       </a>
                     </div>
@@ -1106,10 +1106,7 @@
                   </button>
                   <div class="mt-5" x-show="activeItem === 1">
                     <p class="text-base leading-7 text-gray-500 dark:text-gray-400">
-                      Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                      Aenean luctus magna quis tellus euismod, eget pharetra leo
-                      mollis. Donec eget lacus non elit blandit pharetra vitae
-                      volutpat libero.
+                     
                     </p>
                   </div>
                 </div>
@@ -1147,10 +1144,7 @@
                   </button>
                   <div class="mt-4" x-show="activeItem === 2" style="display: none">
                     <p class="text-base leading-7 text-gray-500 dark:text-gray-400">
-                      The number of "Projects" refers to the total number of
-                      separate workspaces you can create and manage within your
-                      account. Each project can have its own settings, team
-                      members, and resources.
+                     
                     </p>
                   </div>
                 </div>
@@ -1188,10 +1182,7 @@
                   </button>
                   <div class="mt-4" x-show="activeItem === 3" style="display: none">
                     <p class="text-base leading-7 text-gray-500 dark:text-gray-400">
-                      Yes, you can upgrade to a higher plan at any time. When
-                      you upgrade, you'll be charged the prorated difference for
-                      the remainder of your current billing cycle. Your new
-                      features will be available immediately after upgrading.
+                     
                     </p>
                   </div>
                 </div>
@@ -1229,10 +1220,7 @@
                   </button>
                   <div class="mt-4" x-show="activeItem === 4" style="display: none">
                     <p class="text-base leading-7 text-gray-500 dark:text-gray-400">
-                      "Unlimited Projects" means you can create as many projects
-                      as you need without any restrictions. This allows you to
-                      organize your work efficiently without worrying about
-                      hitting a project limit.
+                     
                     </p>
                   </div>
                 </div>
@@ -1270,11 +1258,7 @@
                   </button>
                   <div class="mt-4" x-show="activeItem === 5" style="display: none">
                     <p class="text-base leading-7 text-gray-500 dark:text-gray-400">
-                      To add your OpenAI API key, go to your account settings
-                      and navigate to the "API Keys" section. Click on "Add New
-                      Key", paste your OpenAI API key, and save your changes.
-                      The key will be securely stored and used for all
-                      AI-powered features.
+                     
                     </p>
                   </div>
                 </div>

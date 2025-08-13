@@ -231,25 +231,25 @@ $img2 = htmlspecialchars($row['additional-img-2']);
 
 </style>
 
-        <!-- Social Share -->
+        <!-- Social Share
         <div class="mt-14">
           <div class="flex gap-4 items-center">
             <p class="text-gray-800 text-sm dark:text-white/90">Share Post:</p>
             <div class="flex gap-2">
-              <!-- Facebook -->
+            
               <a href="#" class="w-10 h-10 inline-flex rounded-full dark:bg-white/10 bg-transparent items-center justify-center hover:bg-primary-500 hover:text-white transition-colors dark:text-gray-400">
-                <!-- Facebook Icon -->
+             
                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="25" viewBox="0 0 24 25" fill="none">
                   <path d="M13.4 13.825H15.4L16.2 10.625H13.4V9.025C13.4 8.2015 13.4 7.425 15 7.425H16.2V4.73708C15.9395 4.70248 14.9544 4.625 13.9144 4.625C11.7428 4.625 10.2 5.95049 10.2 8.38477V10.625H7.80005V13.825H10.2V20.625H13.4V13.825Z" fill="currentColor"></path>
                 </svg>
               </a>
-              <!-- Twitter -->
+            
               <a href="#" class="w-10 h-10 inline-flex rounded-full dark:bg-white/10 bg-transparent items-center justify-center hover:bg-primary-500 hover:text-white transition-colors dark:text-gray-400">
                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="25" viewBox="0 0 24 25" fill="none">
                   <path d="M9.09091 5.35229H4L10.0079 13.3628L4.32724 19.8977H6.25453L10.9006 14.553L14.9091 19.8977H20L13.7394 11.5503L19.1273 5.35229H17.2001L12.8468 10.3601L9.09091 5.35229Z" fill="currentColor"></path>
                 </svg>
               </a>
-              <!-- LinkedIn -->
+            
               <a href="#" class="w-10 h-10 inline-flex rounded-full dark:bg-white/10 bg-transparent items-center justify-center hover:bg-primary-500 hover:text-white transition-colors dark:text-gray-400">
                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="25" viewBox="0 0 24 25" fill="none">
                   <path d="M7.35785 6.74924C7.35754 7.43282 6.94282 8.04795 6.30925 8.30458C5.67569 8.56122 4.94979 8.4081 4.47385 7.91744C3.9979 7.42677 3.86696 6.69654 4.14277 6.07108C4.41858 5.44563 5.04605 5.04983 5.72931 5.07034C6.63682 5.09758 7.35826 5.84133 7.35785 6.74924ZM7.40821 9.67053H4.05041V20.1804H7.40821V9.67053ZM12.7136 9.67053H9.37253V20.1804H12.68V14.6652C12.68 11.5929 16.6842 11.3074 16.6842 14.6652V20.1804H20V13.5236C20 8.3442 14.0735 8.53727 12.68 11.0808L12.7136 9.67053Z" fill="currentColor"></path>
@@ -257,7 +257,7 @@ $img2 = htmlspecialchars($row['additional-img-2']);
               </a>
             </div>
           </div>
-        </div>
+        </div> -->
       </div>
     </div>
   </section>
