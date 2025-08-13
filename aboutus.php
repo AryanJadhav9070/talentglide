@@ -152,8 +152,8 @@
         <!-- Right Column (Images) -->
         <div class="order-2">
           <div class="grid grid-cols-2 gap-8">
-            <img src="assets/images/hired.png" class="w-full rounded-xl hidden lg:block" alt="hire IT staff in india ">
-            <img src="assets/images/interview.webp" class="rounded-xl w-full hidden lg:block" alt="hire IT staff in usa">
+            <img src="assets/images/hired.png" class="w-full rounded-xl hidden lg:block" alt="hire telecommunication staff in india ">
+            <img src="assets/images/interview.webp" class="rounded-xl w-full hidden lg:block" alt="hire pharma staff in usa">
           </div>
         </div>
       </div>
