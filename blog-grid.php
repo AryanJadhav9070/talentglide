@@ -86,7 +86,7 @@ $result = mysqli_query($conn, $sql);
                     <?php while ($row = mysqli_fetch_assoc($result)): ?>
                         <article class="overflow-hidden">
                             <a href="blog-details.php?id=<?php echo $row['Id-blog']; ?>">
-                                <img src="uploads/<?php echo htmlspecialchars($row['image-blog-grid-main']); ?>" 
+                                <img src="backend-admin-panel/uploads/<?php echo htmlspecialchars($row['image-blog-grid-main']); ?>" 
                                      alt="Blog Image" 
                                      class="w-full h-48 object-cover rounded-[20px]">
                             </a>
@@ -102,12 +102,12 @@ $result = mysqli_query($conn, $sql);
                                 </div>
                                 <h3 class="text-2xl font-semibold text-gray-800 dark:text-white/90 mb-3">
                                     <a href="blog-details.php?id=<?php echo $row['Id-blog']; ?>">
-                                        <?php echo htmlspecialchars($row['image-blog-grid-main']); ?>
+                                        <?php echo htmlspecialchars($row['Title-tg']); ?>
                                     </a>
                                 </h3>
-                                <p class="text-gray-500 dark:text-gray-400">
-                                    <?php echo htmlspecialchars($row['Disc-tg']); ?>
-                                </p>
+                                <div class="text-gray-500 dark:text-gray-400">
+                                    <?php echo $row['Disc-tg']; ?>
+                    </div>
                             </div>
                         </article>
                     <?php endwhile; ?>
